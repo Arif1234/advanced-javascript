@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Advanced javascript cocepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arif1234/advanced-javascript.git"
+  },
+  "author": "Mohammad Tasleem Arif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arif1234/advanced-javascript/issues"
+  },
+  "homepage": "https://github.com/Arif1234/advanced-javascript#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.24.0",
+    "random": "^2.2.0",
+    "simple-git": "^1.132.0"
+  }
+}
